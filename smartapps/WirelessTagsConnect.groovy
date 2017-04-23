@@ -15,8 +15,8 @@
  */
 definition(
     name: "Wireless Tags (Connect)",
-    namespace: "swanny",
-    author: "swanny",
+    namespace: "ldnguy",
+    author: "ldnguy",
     description: "Wireless Tags connection",
     category: "Convenience",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
